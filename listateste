@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="CANAIS ABERTOS", BR::GLOBO BAHIA SD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1752
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", Globo SD
+https://apk25.futeboltvgratis.com/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
+https://www.sbt.com.br/ao-vivo
+
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", SBT GO HD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1752
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTÍCIAS", BR::Band News SD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1814
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS ABERTO", BR::BAND SP SD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1813
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES E SÉRIES", BR::AXN SD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1819
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES E SÉRIES", BR::Cinemax SD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1801
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", BR::GNT SD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1729
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES E SÉRIES", BR::HBO SD
+http://uhd.twistertv.online:8880/wilian345/P6yepUoLRr/1717
